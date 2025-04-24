@@ -1,0 +1,113 @@
+
+0 Dashboard OpenDashboard
+1 Overview ShowDashboardOverview
+1 Statistics ShowDashboardStats
+2 Monthly ShowMonthlyStats
+2 Annual ShowAnnualStats
+1 Notifications ShowNotifications
+
+
+0 Administration OpenAdminPanel
+1 UserManagement OpenUserManagement
+2 CreateUser CreateNewUser
+2 EditUsers EditExistingUsers
+2 Permissions ManagePermissions
+1 SystemSettings OpenSystemSettings
+2 General GeneralSettings
+2 Security SecuritySettings
+2 Backup BackupSettings
+
+
+0 Content OpenContentManagement
+1 Articles ManageArticles
+2 CreateArticle CreateNewArticle
+2 EditArticles EditExistingArticles
+1 MediaLibrary OpenMediaLibrary
+2 Images ManageImages
+2 Videos ManageVideos
+2 Documents ManageDocuments
+
+
+0 Reports OpenReports
+1 Sales GenerateSalesReport
+2 DailySales DailySalesReport
+2 MonthlySales MonthlySalesReport
+1 Inventory GenerateInventoryReport
+1 Customer GenerateCustomerReport
+2 Activity CustomerActivityReport
+2 Demographics CustomerDemographicsReport
+
+
+0 Tools OpenToolsMenu
+1 Import OpenImportTool
+2 CSV ImportCSV
+2 Excel ImportExcel
+1 Export OpenExportTool
+2 PDF ExportPDF
+2 Excel ExportExcel
+1 Utilities OpenUtilities
+2 DataCleanup RunDataCleanup
+2 SystemDiagnostics RunDiagnostics
+
+
+0 Support OpenSupport
+1 HelpCenter OpenHelpCenter
+1 ContactSupport InitiateSupportContact
+1 Documentation OpenDocumentation
+2 UserGuide OpenUserGuide
+2 APIDocs OpenAPIDocs
+
+
+0 Advanced OpenAdvancedMenu
+1 Configuration OpenAdvancedConfig
+2 Database DatabaseConfig
+3 Connection DBConnectionSettings
+3 Backup DBBackupSettings
+2 API APIConfiguration
+3 Endpoints ManageAPIEndpoints
+3 Authentication APIAuthSettings
+1 Developer DeveloperTools
+2 Logs ViewSystemLogs
+3 Application AppLogs
+3 Error ErrorLogs
+2 Console OpenDevConsole
+
+
+0 Plugins OpenPluginsMenu
+1 Installed ViewInstalledPlugins
+1 Marketplace BrowsePluginMarketplace
+1 AddNew AddNewPlugin
+
+
+0 User OpenUserMenu
+1 Profile EditUserProfile
+1 Settings UserPreferences
+1 Logout LogoutUser
+
+
+0 Analytics OpenAnalytics
+1 Traffic ViewTrafficAnalytics
+2 RealTime ViewRealtimeAnalytics
+2 Historical ViewHistoricalAnalytics
+1 Conversions ViewConversionAnalytics
+
+0 Finance OpenFinance
+1 Invoices ManageInvoices
+2 CreateInvoice CreateNewInvoice
+2 ViewInvoices ListAllInvoices
+1 Payments ProcessPayments
+2 Received ViewReceivedPayments
+2 Pending ViewPendingPayments
+
+
+0 Warehouse OpenWarehouse
+1 Inventory ManageInventory
+2 Products ManageProducts
+3 AddProduct AddNewProduct
+3 EditProduct EditExistingProduct
+2 Categories ManageCategories
+3 AddCategory AddNewCategory
+3 EditCategory EditExistingCategory
+1 Orders ManageOrders
+2 Incoming ViewIncomingOrders
+2 Outgoing ViewOutgoingOrders

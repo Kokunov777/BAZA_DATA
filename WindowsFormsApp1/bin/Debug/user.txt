@@ -1,0 +1,43 @@
+#admin administrator2090
+Administration 0
+Dashboard 0
+Content 0
+Reports 0
+Tools 0
+Support 0
+Advanced 0
+Plugins 0
+User 0
+Analytics 0
+Finance 0
+Warehouse 0 
+
+
+#root rootgame89
+
+Administration 2
+Dashboard 2
+Content 1 
+Reports 1
+Tools 2
+Support 1
+Advanced 2
+Plugins 2
+User 0
+Analytics 1
+Finance 0
+Warehouse 1 
+
+#employee hitkoy
+Administration 2
+Dashboard 2
+Content 1
+Reports 0
+Tools 2
+Support 2
+Advanced 1
+Plugins 2
+User 2
+Analytics 1
+Finance 2
+Warehouse 2 
